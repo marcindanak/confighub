@@ -97,6 +97,10 @@
   .about_section .heading_container {
     margin-right: 40px;
   }
+  
+  .client2_section .heading_container {
+    margin-right: 5px;
+  }
 
   .client_section .box {
     align-items: center;
