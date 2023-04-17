@@ -570,7 +570,7 @@ a:focus {
 }
 
 .team_section .team_container .box .img-box::before {
-  content: "";
+  content: none;
   position: absolute;
   z-index: -1;
   top: 0;
